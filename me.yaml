@@ -1,0 +1,65 @@
+# Bryan's Development Background
+Bryan Goodrich:
+    link: bryangoodrich.github.io
+    icon: 😄
+
+Open Source Repositories:
+    icon: 📦
+    trees:
+        alsm:
+            link: https://www.github.com/bryangoodrich/alsm
+            description: Applied Linear Statistical Models (5th) example code in R and Python
+
+Sandbox:
+    icon: 🏖
+    trees:
+        algorithms:
+            link: https://www.github.com/bryangoodrich/algorithms
+            description: Data structures classwork examples in C++ and Java.
+        arcgis:
+            link: https://www.github.com/bryangoodrich/arcgis
+            description: Classwork toward my AS in GIS from ARC (using ESRI ArcGIS).
+        evodev:
+            link: https://www.github.com/bryangoodrich/evodev
+            description: (TBD) Exploring game programming and evolutionary algorithms (snake game and beyond).
+
+Workplace:
+    icon: 🏢
+    trees:
+        eear:
+            link: https://www.github.com/bryangoodrich/eear
+            description: R codebase and Shiny app for customer consumption analytics.
+        🔒 dnapipelines (private):
+            description: Spark pipelines on Hadoop and Azure environments.
+        🔒 biadwh (private):
+            description: SQL Server (SSDT) database projects, pipelines, and associated data warehouse orchestration elements.
+
+Experiments (Gists):
+    icon: 🔬
+    link: gists.github.com/bryangoodrich
+    trees:
+        Twitter Topic Modeling:
+            link: https://gist.github.com/bryangoodrich/7b5ef683ce8db592669e
+            description: R code for exploring NLP with Twitter stream. Posted on LinkedIn.
+        Percolation Model:
+            link: https://gist.github.com/bryangoodrich/16ddd7f485bd70385106
+            description: Python version of Union-Find algorithm derived from Princeton Algorithms class (Cousera).
+        Adventures in R:
+            link: https://gist.github.com/bryangoodrich/0e03efbf7eba66e9e0d0947c441bb681
+            description: R training working samples presented to Women in Data Science.
+        Regularized Gradient Descent:
+            link: https://gist.github.com/bryangoodrich/38a1888cb020920e1b7d
+            description: An R version of Andrew Ng's regularized gradient descent assignment.
+        Gradient Descent:
+            link: https://gist.github.com/bryangoodrich/cdc57f6fad4ddd99a854
+            description: An R version of Andrew Ng's gradient descent Matlab assignment.
+        BLS Gov FTP Scraper:
+            link: https://gist.github.com/bryangoodrich/1bce26f80756b4eb74cc
+            description: Legacy way to parse out BLS data from their FTP site.
+        Game of Life:
+            link: https://gist.github.com/bryangoodrich/8361321
+            description: An R rendition of Conway's Game of Life.
+        Lambda Lists:
+            link: https://gist.github.com/bryangoodrich/8275787
+            description: Creating objects in a functional way. Adaptation of Steve Losh's JavaScript examples.
+
