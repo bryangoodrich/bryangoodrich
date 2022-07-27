@@ -15,13 +15,13 @@ class TreeNode:
 def add_leaves(trees, parent):
     for key in trees:
         node = TreeNode(key, **trees[key])
-        temp_tree = Tree(f"[bold link={node.link}]{node.name} - {node.description}")
+        temp_tree = Tree(f"[bold link={node.link}]{node.name}[/] - [bright_black]{node.description}")
         parent.add(temp_tree)
     
     return parent
 
 
-with open("me.yaml", encoding="utf-8") as fh:
+with open("C:\Temp\GitHub - BryanGoodrich README Generator.yaml", encoding="utf-8") as fh:
     data = yaml.safe_load(fh)
 
 
@@ -61,4 +61,4 @@ CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
 """
 
-console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
+console.save_html("C:\Temp\README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
