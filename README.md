@@ -4,8 +4,8 @@
 ├── <span style="color: #808080; text-decoration-color: #808080">🏖 Sandbox</span>
 │   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/algorithms">algorithms</a></span> - <span style="color: #808080; text-decoration-color: #808080">Data structures classwork examples in C++ and Java.</span>
 │   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/arcgis">arcgis</a></span> - <span style="color: #808080; text-decoration-color: #808080">Classwork toward my AS in GIS from ARC (using ESRI ArcGIS).</span>
-│   └── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/evodev">evodev</a></span> - <span style="color: #808080; text-decoration-color: #808080">(TBD) Exploring game programming and evolutionary algorithms (snake game and </span>
-│       <span style="color: #808080; text-decoration-color: #808080">beyond).</span>
+│   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/evodev">evodev</a></span> - <span style="color: #808080; text-decoration-color: #808080">Exploring game programming and evolutionary algorithms (snake game and beyond).</span>
+│   └── <span style="font-weight: bold"><a href="https://github.com/bryangoodrich/codecamp">codecamp</a></span> - <span style="color: #808080; text-decoration-color: #808080">Training material code space. In particular, freecodecamp (for now).</span>
 ├── <span style="color: #808080; text-decoration-color: #808080">🏢 Workplace</span>
 │   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/eear">eear</a></span> - <span style="color: #808080; text-decoration-color: #808080">Shiny app and custom R for customer energy use analytics.</span>
 │   ├── 🔒 dnapipelines (private) - <span style="color: #808080; text-decoration-color: #808080">Spark pipelines on Hadoop and Azure environments.</span>
