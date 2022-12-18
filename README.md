@@ -8,8 +8,8 @@
 │   └── <span style="font-weight: bold"><a href="https://github.com/bryangoodrich/codecamp">codecamp</a></span> - <span style="color: #808080; text-decoration-color: #808080">Training material code space. In particular, freecodecamp (for now).</span>
 ├── <span style="color: #808080; text-decoration-color: #808080">🏢 Workplace</span>
 │   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/eear">eear</a></span> - <span style="color: #808080; text-decoration-color: #808080">Shiny app and custom R for customer energy use analytics.</span>
-│   ├── 🔒 dnapipelines (private) - <span style="color: #808080; text-decoration-color: #808080">Spark pipelines on Hadoop and Azure environments.</span>
-│   └── 🔒 biadwh (private) - <span style="color: #808080; text-decoration-color: #808080">SQL Server (SSDT) database projects and pipelines.</span>
+│   ├── 🔒 dnapipelines (private) - <span style="color: #808080; text-decoration-color: #808080">PySpark pipelines on Hadoop and Azure environments.</span>
+│   └── 🔒 biadwh (private) - <span style="color: #808080; text-decoration-color: #808080">SQL Server (SSDT) database projects and SSIS pipelines.</span>
 └── <span style="color: #808080; text-decoration-color: #808080">🔬 Experiments (Gists)</span>
     ├── <span style="font-weight: bold"><a href="https://gist.github.com/bryangoodrich/7b5ef683ce8db592669e">Twitter Topic Modeling</a></span> - <span style="color: #808080; text-decoration-color: #808080">R code for exploring NLP with Twitter stream. Posted on LinkedIn.</span>
     ├── <span style="font-weight: bold"><a href="https://gist.github.com/bryangoodrich/16ddd7f485bd70385106">Percolation Model</a></span> - <span style="color: #808080; text-decoration-color: #808080">Python version of Union-Find algorithm, Princeton Algorithms (Cousera).</span>
