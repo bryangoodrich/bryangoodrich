@@ -21,7 +21,7 @@ Sandbox:
             description: Classwork toward my AS in GIS from ARC (using ESRI ArcGIS).
         evodev:
             link: https://www.github.com/bryangoodrich/evodev
-            description: (TBD) Exploring game programming and evolutionary algorithms (snake game and beyond).
+            description: Exploring game programming and evolutionary algorithms (snake game and beyond).
         codecamp:
             link: https://github.com/bryangoodrich/codecamp
             description: Training material code space. In particular, freecodecamp (for now).
@@ -33,9 +33,9 @@ Workplace:
             link: https://www.github.com/bryangoodrich/eear
             description: Shiny app and custom R for customer energy use analytics.
         🔒 dnapipelines (private):
-            description: Spark pipelines on Hadoop and Azure environments.
+            description: PySpark pipelines on Hadoop and Azure environments.
         🔒 biadwh (private):
-            description: SQL Server (SSDT) database projects and pipelines.
+            description: SQL Server (SSDT) database projects and SSIS pipelines.
 
 Experiments (Gists):
     icon: 🔬
