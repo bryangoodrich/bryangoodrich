@@ -22,6 +22,9 @@ Sandbox:
         evodev:
             link: https://www.github.com/bryangoodrich/evodev
             description: (TBD) Exploring game programming and evolutionary algorithms (snake game and beyond).
+        codecamp:
+            link: https://github.com/bryangoodrich/codecamp
+            description: Training material code space. In particular, freecodecamp (for now).
 
 Workplace:
     icon: 🏢
