@@ -1,8 +1,7 @@
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #808080; text-decoration-color: #808080; font-weight: bold"><a href="bryangoodrich.github.io">😄 Bryan Goodrich</a></span>
 ├── <span style="color: #808080; text-decoration-color: #808080">📦 Open Source Repositories</span>
 │   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/alsm">alsm</a></span> - <span style="color: #808080; text-decoration-color: #808080">Book examples custom build in R and Python</span>
-│   └── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/full-stack-data-engineer">full-stack-data-engineer</a></span> - <span style="color: #808080; text-decoration-color: #808080">(WIP) Training materials that span data pipeline, modeling, and </span>
-│       <span style="color: #808080; text-decoration-color: #808080">analytics.</span>
+│   └── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/full-stack-data-engineer">full-stack-data-engineer</a></span> - <span style="color: #808080; text-decoration-color: #808080">(WIP) Training materials for pipelines, modeling, and analytics.</span>
 ├── <span style="color: #808080; text-decoration-color: #808080">🏖 Sandbox</span>
 │   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/algorithms">algorithms</a></span> - <span style="color: #808080; text-decoration-color: #808080">Data structures classwork examples in C++ and Java.</span>
 │   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/arcgis">arcgis</a></span> - <span style="color: #808080; text-decoration-color: #808080">Classwork toward my AS in GIS from ARC (using ESRI ArcGIS).</span>
