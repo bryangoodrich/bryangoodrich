@@ -4,12 +4,13 @@
 ├── <span style="color: #808080; text-decoration-color: #808080">🏖 Sandbox</span>
 │   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/algorithms">algorithms</a></span> - <span style="color: #808080; text-decoration-color: #808080">Data structures classwork examples in C++ and Java.</span>
 │   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/arcgis">arcgis</a></span> - <span style="color: #808080; text-decoration-color: #808080">Classwork toward my AS in GIS from ARC (using ESRI ArcGIS).</span>
-│   └── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/evodev">evodev</a></span> - <span style="color: #808080; text-decoration-color: #808080">(TBD) Exploring game programming and evolutionary algorithms (snake game and </span>
-│       <span style="color: #808080; text-decoration-color: #808080">beyond).</span>
+│   ├── <span style="font-weight: bold"><a href="https://github.com/bryangoodrich/codecamp">codecamp</a></span> - <span style="color: #808080; text-decoration-color: #808080">Training material code space. In particular, freecodecamp (for now).</span>
+│   ├── <span style="font-weight: bold"><a href="https://github.com/bryangoodrich/design-patterns">design-patterns</a></span> - <span style="color: #808080; text-decoration-color: #808080">Common OOP design patterns explored in Python and other languages.</span>
+│   └── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/evodev">evodev</a></span> - <span style="color: #808080; text-decoration-color: #808080">Exploring game programming and evolutionary algorithms (snake game and beyond).</span>
 ├── <span style="color: #808080; text-decoration-color: #808080">🏢 Workplace</span>
 │   ├── <span style="font-weight: bold"><a href="https://www.github.com/bryangoodrich/eear">eear</a></span> - <span style="color: #808080; text-decoration-color: #808080">Shiny app and custom R for customer energy use analytics.</span>
-│   ├── 🔒 dnapipelines (private) - <span style="color: #808080; text-decoration-color: #808080">Spark pipelines on Hadoop and Azure environments.</span>
-│   └── 🔒 biadwh (private) - <span style="color: #808080; text-decoration-color: #808080">SQL Server (SSDT) database projects and pipelines.</span>
+│   ├── 🔒 dnapipelines (private) - <span style="color: #808080; text-decoration-color: #808080">PySpark pipelines on Hadoop and Azure environments.</span>
+│   └── 🔒 biadwh (private) - <span style="color: #808080; text-decoration-color: #808080">Data warehouse pipelines, data models on MSSQL stack.</span>
 └── <span style="color: #808080; text-decoration-color: #808080">🔬 Experiments (Gists)</span>
     ├── <span style="font-weight: bold"><a href="https://gist.github.com/bryangoodrich/7b5ef683ce8db592669e">Twitter Topic Modeling</a></span> - <span style="color: #808080; text-decoration-color: #808080">R code for exploring NLP with Twitter stream. Posted on LinkedIn.</span>
     ├── <span style="font-weight: bold"><a href="https://gist.github.com/bryangoodrich/16ddd7f485bd70385106">Percolation Model</a></span> - <span style="color: #808080; text-decoration-color: #808080">Python version of Union-Find algorithm, Princeton Algorithms (Cousera).</span>
@@ -20,5 +21,5 @@
     ├── <span style="font-weight: bold"><a href="https://gist.github.com/bryangoodrich/8361321">Game of Life</a></span> - <span style="color: #808080; text-decoration-color: #808080">Conway&#x27;s Game of Life in R.</span>
     └── <span style="font-weight: bold"><a href="https://gist.github.com/bryangoodrich/8275787">Lambda Lists</a></span> - <span style="color: #808080; text-decoration-color: #808080">Lists from literally Nothing. Adaptation of Steve Losh&#x27;s JavaScript examples.</span>
 
-<span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/bryangoodrich">@bryangoodrich</a></span>
+<span style="color: #008000; text-decoration-color: #008000">Follow me on </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/bryangoodrich">twitter</a></span><span style="color: #008000; text-decoration-color: #008000"> and </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://dataplatform.social/@bryangoodrich">mastodon</a></span>
 </pre>

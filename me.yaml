@@ -19,12 +19,15 @@ Sandbox:
         arcgis:
             link: https://www.github.com/bryangoodrich/arcgis
             description: Classwork toward my AS in GIS from ARC (using ESRI ArcGIS).
-        evodev:
-            link: https://www.github.com/bryangoodrich/evodev
-            description: (TBD) Exploring game programming and evolutionary algorithms (snake game and beyond).
         codecamp:
             link: https://github.com/bryangoodrich/codecamp
             description: Training material code space. In particular, freecodecamp (for now).
+        design-patterns:
+            link: https://github.com/bryangoodrich/design-patterns
+            description: Common OOP design patterns explored in Python and other languages.
+        evodev:
+            link: https://www.github.com/bryangoodrich/evodev
+            description: Exploring game programming and evolutionary algorithms (snake game and beyond).
 
 Workplace:
     icon: 🏢
@@ -33,9 +36,9 @@ Workplace:
             link: https://www.github.com/bryangoodrich/eear
             description: Shiny app and custom R for customer energy use analytics.
         🔒 dnapipelines (private):
-            description: Spark pipelines on Hadoop and Azure environments.
+            description: PySpark pipelines on Hadoop and Azure environments.
         🔒 biadwh (private):
-            description: SQL Server (SSDT) database projects and pipelines.
+            description: Data warehouse pipelines, data models on MSSQL stack.
 
 Experiments (Gists):
     icon: 🔬

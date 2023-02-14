@@ -21,7 +21,7 @@ def add_leaves(trees, parent):
     return parent
 
 
-with open("C:\Temp\GitHub - BryanGoodrich README Generator.yaml", encoding="utf-8") as fh:
+with open("me.yaml", encoding="utf-8") as fh:
     data = yaml.safe_load(fh)
 
 
@@ -54,11 +54,11 @@ tree.add(add_leaves(trees, Tree(f"[bright_black]{node.icon} {node.name}")))
 
 console.print(tree)
 console.print("")
-console.print("[green]Follow me on twitter [bold link=https://twitter.com/bryangoodrich]@bryangoodrich[/]")
+console.print("[green]Follow me on [bold link=https://twitter.com/bryangoodrich]twitter[/] and [bold link=https://dataplatform.social/@bryangoodrich]mastodon[/]")
 
 
 CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
 """
 
-console.save_html("C:\Temp\README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
+console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
