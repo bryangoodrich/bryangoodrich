@@ -9,6 +9,9 @@ Open Source Repositories:
         alsm:
             link: https://www.github.com/bryangoodrich/alsm
             description: Book examples custom build in R and Python
+        full-stack-data-engineer:
+            link: https://www.github.com/bryangoodrich/full-stack-data-engineer
+            description: (WIP) Training materials that span data pipeline, modeling, and analytics.
 
 Sandbox:
     icon: 🏖
